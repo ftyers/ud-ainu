@@ -1,0 +1,624 @@
+# sent_id = ky-6-1
+# text = "sine-an-to-ta nismu=as kusu, pis ta sap=as.
+1	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No|
+2	sine-an-to-ta	sine-an-to-ta	ADV	_	_	3	advmod	_	Tamura1996=637|Gloss=one.day
+3	nismu	nismu	VERB	_	Valency=1	9	advcl	_	SpaceAfter=No|Gloss=be.bored
+4	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	3	aux	_	_
+5	kusu	kusu	SCONJ	_	_	3	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	pis	pis	NOUN	_	Place=Yes	5	nmod	_	Tamura1996=532|Gloss=beach
+8	ta	ta	ADP	_	_	7	case	_	Tamura1996=690|Gloss=at
+9	sap	san	VERB	_	Number=Pluract|Valency=1	0	root	_	Tamura1996=602|SpaceAfter=No|Gloss=go.downstream
+10	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-2
+# text = sinot=as kor okay=as awa, sine pon rupne aynu ek kor an.
+1	sinot	sinot	VERB	_	Valency=1	4	advcl	_	SpaceAfter=No|Tamura1996=640|Gloss=play
+2	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	1	aux	_	_
+3	kor	kor	SCONJ	_	_	1	mark	_	Tamura1996=334|Gloss=when
+4	okay	an	VERB	_	Number=Pluract|Valency=1	0	root	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+5	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	4	aux	_	_
+6	awa	awa	CCONJ	_	_	4	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	sine	sine	NUM	_	NumType=Card	11	nummod	_	Tamura1996=637|Gloss=one
+9	pon	pon	VERB	_	Valency=1	11	acl:relcl	_	Tamura1996=538|Gloss=small
+10	rupne	rupne	VERB	_	Valency=1	11	acl:relcl	_	Tamura1996=589|Gloss=adult
+11	aynu	aynu	NOUN	_	_	12	nsubj	_	Tamura1996=37|Gloss=man
+12	ek	ek	VERB	_	Valency=1	14	advcl	_	Tamura1996=85|Gloss=come
+13	kor	kor	SCONJ	_	_	12	mark	_	Tamura1996=334|Gloss=when
+14	an	an	VERB	_	Valency=1	4	conj	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = ky-6-3
+# text = wakusu, hepasi san ko, hepasi ci=etusmak.
+1	wakusu	wakusu	ADV	_	_	9	advmod	_	SpaceAfter=No|Tamura1996=823|Gloss=so
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	hepasi	hepasi	ADV	_	_	4	advmod	_	Tamura1996=183|towards.downstream
+4	san	san	VERB	_	Valency=1	9	advcl	_	Tamura1996=602|Gloss=go.downstream
+5	ko	kor	SCONJ	_	_	4	mark	_	SpaceAfter=No|Tamura1996=313|Gloss=when
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	hepasi	hepasi	ADV	_	_	9	advmod	_	Tamura1996=183|towards.downstream
+8	ci=	ci=	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=Poly	9	aux	_	SpaceAfter=No
+9	etusmak	etusmak	VERB	_	Valency=2	0	root	_	SpaceAfter=No|Tamura1996=138|Gloss=get.ahead.of
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-4
+# text = heperay ek ko, heperay ci=etusmak.
+1	heperay	heperay	ADV	_	_	2	advmod	_	Tamura1996=184|towards.upstream
+2	ek	ek	VERB	_	Valency=1	7	advcl	_	Tamura1996=85|Gloss=come
+3	ko	kor	SCONJ	_	_	2	mark	_	SpaceAfter=No|Tamura1996=313|Gloss=when
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	heperay	heperay	ADV	_	_	7	advmod	_	Tamura1996=184|towards.upstream
+6	ci=	ci=	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=Poly	7	aux	_	SpaceAfter=No
+7	etusmak	etusmak	VERB	_	Valency=2	0	root	_	SpaceAfter=No|Tamura1996=138|Gloss=get.ahead.of
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ky-6-5
+# text = ikici=as awa, hepasi iwan suy heperay iwan suy ne i ta pon rupne aynu kor wenpuri enan tuyka eparsere.
+1	ikici	ikici	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Gloss=behave.repeatedly
+2	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	1	aux	_	_
+3	awa	awa	CCONJ	_	_	1	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	hepasi	hepasi	ADV	_	_	7	advmod	_	Tamura1996=183|towards.downstream
+6	iwan	iwan	NUM	_	NumType=Card	7	nummod	_	Tamura1996=254|Gloss=six
+7	suy	suy	NOUN	_	_	12	acl	_	Tamura1996=689|Gloss=time
+8	heperay	heperay	ADV	_	_	10	advmod	_	Tamura1996=184|towards.upstream
+9	iwan	iwan	NUM	_	NumType=Card	10	nummod	_	Tamura1996=254|Gloss=six
+10	suy	suy	NOUN	_	_	7	conj	_	Tamura1996=689|Gloss=time
+11	ne	ne	AUX	_	_	7	cop	_	Tamura1996=407|Gloss=(copula)
+12	i	i	NOUN	_	_	21	nmod	_	Gloss=fact
+13	ta	ta	ADP	_	_	12	case	_	Tamura1996=690|Gloss=at
+14	pon	pon	VERB	_	Valency=1	16	acl:relcl	_	Tamura1996=538|Gloss=small
+15	rupne	rupne	VERB	_	Valency=1	16	acl:relcl	_	Tamura1996=589|Gloss=adult
+16	aynu	aynu	NOUN	_	_	21	nsubj	_	Tamura1996=37|Gloss=man
+17	kor	kor	VERB	_	Valency=2	18	acl:relcl	_	Tamura1996=333|Gloss=have
+18	wenpuri	wenpuri	NOUN	_	_	21	obj	_	Tamura1996=829|Gloss=anger
+19	enan	enan	NOUN	_	_	20	compound	_	Gloss=surface.of.face
+20	tuyka	tuyka	NOUN	_	_	21	iobj	_	Gloss=top
+21	eparsere	eparsere	VERB	_	Valency=3	1	conj	_	SpaceAfter=No|Gloss=burn.its.face.with
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ky-6-6
+# text = ene itak i,
+1	ene	ene	ADV	_	_	2	advmod	_	Tamura1996=99|Gloss=like.this
+2	itak	itak	VERB	_	Valency=1	3	acl	_	Tamura1996=250|Gloss=speak
+3	i	i	NOUN	_	_	0	root	_	SpaceAfter=No|Gloss=fact
+4	,	,	PUNCT	_	_	3	punct	_	_
+
+# sent_id = ky-6-7
+# text = 'piy tun tun, piy tun tun!
+1	'	'	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	piy	piy	INTJ	_	_	0	root	_	_
+3	tun	tun	INTJ	_	_	2	discourse	_	_
+4	tun	tun	INTJ	_	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	piy	piy	INTJ	_	_	2	conj	_	_
+7	tun	tun	INTJ	_	_	6	discourse	_	_
+8	tun	tun	INTJ	_	_	6	discourse	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ky-6-8
+# text = tan hekaci, wen hekaci, e=iki ciki, tan esannot teeta réhe tane réhe ukaepita e=ki kus ne na!'
+1	tan	tan	DET	_	_	2	det	_	Tamura1996=694|Gloss=this
+2	hekaci	hekaci	NOUN	_	_	19	vocative	_	SpaceAfter=No|Tamura1996=179|Gloss=boy
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	wen	wen	VERB	_	Valency=1	5	acl:relcl	_	Tamura1996=825|Gloss=be.bad
+5	hekaci	hekaci	NOUN	_	_	2	appos	_	SpaceAfter=No|Tamura1996=179|Gloss=boy
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	8	aux	_	SpaceAfter=No
+8	iki	iki	VERB	_	Valency=1	19	advcl	_	Tamura1996=222|Gloss=behave
+9	ciki	ciki	SCONJ	_	_	8	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	tan	tan	DET	_	_	12	det	_	Tamura1996=694|Gloss=this
+12	esannot	esannot	NOUN	_	_	14	nmod:poss	_	Gloss=cape
+13	teeta	teeta	ADV	_	_	14	advmod	_	Tamura1996=705|Gloss=long.ago
+14	réhe	re	NOUN	_	Possessed=Yes	17	obj	_	Tamura1996=569|Gloss=name
+15	tane	tane	ADV	_	_	16	advmod	_	Tamura1996=695|Gloss=now
+16	réhe	re	NOUN	_	Possessed=Yes	14	conj	_	Tamura1996=569|Gloss=name
+17	ukaepita	ukaepita	VERB	_	Valency=2	19	xcomp	_	Tamura1996=752|Gloss=untie
+18	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	19	aux	_	SpaceAfter=No
+19	ki	ki	VERB	_	Valency=2	0	root	_	Tamura1996=301|Gloss=do
+20	kus	kusu	SCONJ	_	_	19	mark	_	Tamura1996=368|Gloss=because
+21	ne	ne	AUX	_	_	19	cop	_	Tamura1996=407|Gloss=(copula)
+22	na	na	PART	_	_	19	discourse	_	SpaceAfter=No|Tamura1996=403|Gloss=(intensifier)
+23	!	!	PUNCT	_	_	19	punct	_	SpaceAfter=No
+24	'	'	PUNCT	_	_	19	punct	_	_
+
+# sent_id = ky-6-9
+# text = háwas ciki, ci=emina kor, itak=as hawe ene okay,
+1	háwas	háwas	VERB	_	Valency=0	12	advcl	_	Tamura1996=174|Gloss=it.sounds
+2	ciki	ciki	SCONJ	_	_	1	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	ci=	ci=	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=Poly	5	aux	_	SpaceAfter=No
+5	emina	emina	VERB	_	Valency=2	12	advcl	_	Tamura1996=96|Gloss=laugh.at
+6	kor	kor	SCONJ	_	_	5	mark	_	SpaceAfter=No|Tamura1996=334|Gloss=when
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	itak	itak	VERB	_	Valency=1	10	acl	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+9	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	8	aux	_	_
+10	hawe	hawe	NOUN	_	_	12	nsubj	_	Tamura1996=174|Gloss=fact
+11	ene	ene	ADV	_	_	12	advmod	_	Tamura1996=99|Gloss=like.this
+12	okay	an	VERB	_	Number=Pluract|Valency=1	0	root	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+13	,	,	PUNCT	_	_	12	punct	_	_
+
+# sent_id = ky-6-10
+# text = 'nennamora tan esannot teeta réhe tane réhe erampewtek a!
+1	'	'	PUNCT	_	_	9	punct	_	SpaceAfter=No
+2	nennamora	nennamora	PRON	_	PronType=Int	9	nsubj	_	Tamura1996=705|Gloss=who
+3	tan	tan	DET	_	_	4	det	_	Tamura1996=694|Gloss=this
+4	esannot	esannot	NOUN	_	_	6	nmod:poss	_	Gloss=cape
+5	teeta	teeta	ADV	_	_	6	advmod	_	Tamura1996=705|Gloss=long.ago
+6	réhe	re	NOUN	_	Possessed=Yes	9	obj	_	Tamura1996=569|Gloss=name
+7	tane	tane	ADV	_	_	8	advmod	_	Tamura1996=695|Gloss=now
+8	réhe	re	NOUN	_	Possessed=Yes	6	conj	_	Tamura1996=569|Gloss=name
+9	erampewtek	erampewtek	VERB	_	Valency=2	0	root	_	Tamura1996=113|Gloss=do.not.know
+10	a	a	PART	_	_	9	discourse	_	SpaceAfter=No|Tamura1996=1|Gloss=(intensifier)
+11	!	!	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-11
+# text = teeta anak sinnupur kusu, tapan esannot Kamuyesannot ari a=ye a korka, tane anakne sirpan kusu, Inawesannot ari a=ye ruwe tasi an ne!'
+1	teeta	teeta	ADV	_	_	3	advmod	_	Tamura1996=705|Gloss=long.ago
+2	anak	anak	ADV	_	_	1	advmod	_	Tamura1996=11|Gloss=(intensifier)
+3	sinnupur	sinnupur	VERB	_	Valency=0	11	advcl	_	Gloss=world.is.full.of.magical.power
+4	kusu	kusu	SCONJ	_	_	3	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	tapan	tapan	DET	_	_	7	det	_	Tamura1996=698|Gloss=this
+7	esannot	esannot	NOUN	_	_	11	obj	_	Gloss=cape
+8	Kamuyesannot	Kamuyesannot	PROPN	_	_	11	nmod	_	_
+9	ari	ari	ADP	_	_	8	case	_	Tamura1996=21|Gloss=as
+10	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	11	aux	_	SpaceAfter=No
+11	ye	ye	VERB	_	Valency=2	24	acl	_	Tamura1996=869|Gloss=say
+12	a	a	AUX	_	_	11	aux	_	Tamura1996=1|Gloss=(past.tense)
+13	korka	korka	CCONJ	_	_	11	cc	_	SpaceAfter=No|Tamura1996=336|Gloss=but
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	tane	tane	ADV	_	_	16	advmod	_	Tamura1996=695|Gloss=now
+16	anakne	anakne	ADV	_	_	17	advmod	_	Tamura1996=12|Gloss=(intensifier)
+17	sirpan	sirpan	VERB	_	Valency=0	21	advcl	_	Gloss=world.is.devoid.of.magical.power
+18	kusu	kusu	SCONJ	_	_	17	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	Inawesannot	Inawesannot	PROPN	_	_	23	nmod	_	_
+21	ari	ari	ADP	_	_	20	case	_	Tamura1996=21|Gloss=as
+22	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	23	aux	_	SpaceAfter=No
+23	ye	ye	VERB	_	Valency=2	11	conj	_	Tamura1996=869|Gloss=say
+24	ruwe	ruwe	NOUN	_	_	26	nsubj	_	Tamura1996=593|Gloss=fact
+25	tasi	tasi	ADV	_	_	24	advmod	_	Tamura1996=702|Gloss=(intensifier)
+26	an	an	VERB	_	Valency=1	0	root	_	Tamura1996=9|Gloss=exist
+27	ne	ne	PART	_	_	26	advmod	_	SpaceAfter=No|Gloss=(intensifier)
+28	!	!	PUNCT	_	_	26	punct	_	SpaceAfter=No
+29	'	'	PUNCT	_	_	26	punct	_	_
+
+# sent_id = ky-6-12
+# text = itak=as awa, pon rupne aynu ene itak i,
+1	itak	itak	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+2	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	1	aux	_	_
+3	awa	awa	CCONJ	_	_	1	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	pon	pon	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=538|Gloss=small
+6	rupne	rupne	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=589|Gloss=adult
+7	aynu	aynu	NOUN	_	_	9	nsubj	_	Tamura1996=37|Gloss=man
+8	ene	ene	ADV	_	_	9	advmod	_	Tamura1996=99|Gloss=like.this
+9	itak	itak	VERB	_	Valency=1	10	acl	_	Tamura1996=250|Gloss=speak
+10	i	i	NOUN	_	_	1	conj	_	SpaceAfter=No|Gloss=fact
+11	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ky-6-13
+# text = 'piy tun tun, piy tun tun!
+1	'	'	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	piy	piy	INTJ	_	_	0	root	_	_
+3	tun	tun	INTJ	_	_	2	discourse	_	_
+4	tun	tun	INTJ	_	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	piy	piy	INTJ	_	_	2	conj	_	_
+7	tun	tun	INTJ	_	_	6	discourse	_	_
+8	tun	tun	INTJ	_	_	6	discourse	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ky-6-14
+# text = tan hekaci, sonno he tap e=hawan ciki, tapan petpo teeta réhe tane réhe ukaepita e=ki kus ne na.'
+1	tan	tan	DET	_	_	2	det	_	Tamura1996=694|Gloss=this
+2	hekaci	hekaci	NOUN	_	_	19	vocative	_	SpaceAfter=No|Tamura1996=179|Gloss=boy
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	sonno	sonno	ADV	_	_	8	advmod	_	Tamura1996=676|Gloss=really
+5	he	he	PART	_	_	4	advmod	_	Tamura1996=178|Gloss=(intensifier)
+6	tap	tap	PART	_	_	5	fixed	_	Tamura1996=697
+7	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	8	aux	_	SpaceAfter=No
+8	hawan	hawean	VERB	_	Valency=1	19	advcl	_	Tamura1996=174|Gloss=say
+9	ciki	ciki	SCONJ	_	_	8	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	tapan	tapan	DET	_	_	12	det	_	Tamura1996=698|Gloss=this
+12	petpo	petpo	NOUN	_	Degree=Dim	14	nmod:poss	_	Tamura1996=526|Gloss=river
+13	teeta	teeta	ADV	_	_	14	advmod	_	Tamura1996=705|Gloss=long.ago
+14	réhe	re	NOUN	_	Possessed=Yes	17	obj	_	Tamura1996=569|Gloss=name
+15	tane	tane	ADV	_	_	16	advmod	_	Tamura1996=695|Gloss=now
+16	réhe	re	NOUN	_	Possessed=Yes	14	conj	_	Tamura1996=569|Gloss=name
+17	ukaepita	ukaepita	VERB	_	Valency=2	19	xcomp	_	Tamura1996=752|Gloss=untie
+18	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	19	aux	_	SpaceAfter=No
+19	ki	ki	VERB	_	Valency=2	0	root	_	Tamura1996=301|Gloss=do
+20	kus	kusu	SCONJ	_	_	19	mark	_	Tamura1996=368|Gloss=because
+21	ne	ne	AUX	_	_	19	cop	_	Tamura1996=407|Gloss=(copula)
+22	na	na	PART	_	_	19	discourse	_	SpaceAfter=No|Tamura1996=403|Gloss=(intensifier)
+23	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+24	'	'	PUNCT	_	_	19	punct	_	_
+
+# sent_id = ky-6-15
+# text = háwas ciki, itak=as hawe ene okay,
+1	háwas	háwas	VERB	_	Valency=0	8	advcl	_	Tamura1996=174|Gloss=it.sounds
+2	ciki	ciki	SCONJ	_	_	1	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	itak	itak	VERB	_	Valency=1	6	acl	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+5	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	4	aux	_	_
+6	hawe	hawe	NOUN	_	_	8	nsubj	_	Tamura1996=174|Gloss=fact
+7	ene	ene	ADV	_	_	8	advmod	_	Tamura1996=99|Gloss=like.this
+8	okay	an	VERB	_	Number=Pluract|Valency=1	0	root	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+9	,	,	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ky-6-16
+# text = 'nennamora tapan petpo teeta réhe tane réhe erampewtek a!
+1	'	'	PUNCT	_	_	9	punct	_	SpaceAfter=No
+2	nennamora	nennamora	PRON	_	PronType=Int	9	nsubj	_	Tamura1996=705|Gloss=who
+3	tapan	tapan	DET	_	_	4	det	_	Tamura1996=698|Gloss=this
+4	petpo	petpo	NOUN	_	Degree=Dim	6	nmod:poss	_	Tamura1996=526|Gloss=river
+5	teeta	teeta	ADV	_	_	6	advmod	_	Tamura1996=705|Gloss=long.ago
+6	réhe	re	NOUN	_	Possessed=Yes	9	obj	_	Tamura1996=569|Gloss=name
+7	tane	tane	ADV	_	_	8	advmod	_	Tamura1996=695|Gloss=now
+8	réhe	re	NOUN	_	Possessed=Yes	6	conj	_	Tamura1996=569|Gloss=name
+9	erampewtek	erampewtek	VERB	_	Valency=2	0	root	_	Tamura1996=113|Gloss=do.not.know
+10	a	a	PART	_	_	9	discourse	_	SpaceAfter=No|Tamura1996=1|Gloss=(intensifier)
+11	!	!	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-17
+# text = teeta kane sinnupur i ta tapan petpo Kanciwetunas ari a=ye a korka, tane sirpan kus, Kanciwemoyre ari a=ye ruwe tasi an ne!'
+1	teeta	teeta	ADV	_	_	3	advmod	_	Tamura1996=705|Gloss=long.ago
+2	kane	kane	ADV	_	_	1	advmod	_	Tamura1996=273|Gloss=(intensifier)
+3	sinnupur	sinnupur	VERB	_	Valency=0	4	acl	_	Gloss=world.is.full.of.magical.power
+4	i	i	NOUN	_	_	11	nmod	_	Gloss=fact
+5	ta	ta	ADP	_	_	4	case	_	Tamura1996=690|Gloss=at
+6	tapan	tapan	DET	_	_	7	det	_	Tamura1996=698|Gloss=this
+7	petpo	petpo	NOUN	_	Degree=Dim	11	obj	_	Tamura1996=526|Gloss=river
+8	Kanciwetunas	Kanciwetunas	PROPN	_	_	11	nmod	_	_
+9	ari	ari	ADP	_	_	8	case	_	Tamura1996=21|Gloss=as
+10	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	11	aux	_	SpaceAfter=No
+11	ye	ye	VERB	_	Valency=2	23	acl	_	Tamura1996=869|Gloss=say
+12	a	a	AUX	_	_	11	aux	_	Tamura1996=1|Gloss=(past.tense)
+13	korka	korka	CCONJ	_	_	11	cc	_	SpaceAfter=No|Tamura1996=336|Gloss=but
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	tane	tane	ADV	_	_	16	advmod	_	Tamura1996=695|Gloss=now
+16	sirpan	sirpan	VERB	_	Valency=0	22	advcl	_	Gloss=world.is.devoid.of.magical.power
+17	kus	kusu	SCONJ	_	_	16	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	Kanciwemoyre	Kanciwemoyre	PROPN	_	_	22	nmod	_	_
+20	ari	ari	ADP	_	_	19	case	_	Tamura1996=21|Gloss=as
+21	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	22	aux	_	SpaceAfter=No
+22	ye	ye	VERB	_	Valency=2	11	conj	_	Tamura1996=869|Gloss=say
+23	ruwe	ruwe	NOUN	_	_	25	nsubj	_	Tamura1996=593|Gloss=fact
+24	tasi	tasi	ADV	_	_	23	advmod	_	Tamura1996=702|Gloss=(intensifier)
+25	an	an	VERB	_	Valency=1	0	root	_	Tamura1996=9|Gloss=exist
+26	ne	ne	PART	_	_	25	advmod	_	SpaceAfter=No|Gloss=(intensifier)
+27	!	!	PUNCT	_	_	25	punct	_	SpaceAfter=No
+28	'	'	PUNCT	_	_	25	punct	_	_
+
+# sent_id = ky-6-18
+# text = itak=as awa, pon rupne aynu ene itak i,
+1	itak	itak	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+2	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	1	aux	_	_
+3	awa	awa	CCONJ	_	_	1	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	pon	pon	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=538|Gloss=small
+6	rupne	rupne	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=589|Gloss=adult
+7	aynu	aynu	NOUN	_	_	9	nsubj	_	Tamura1996=37|Gloss=man
+8	ene	ene	ADV	_	_	9	advmod	_	Tamura1996=99|Gloss=like.this
+9	itak	itak	VERB	_	Valency=1	10	acl	_	Tamura1996=250|Gloss=speak
+10	i	i	NOUN	_	_	1	conj	_	SpaceAfter=No|Gloss=fact
+11	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ky-6-19
+# text = 'piy tun tun, piy tun tun!
+1	'	'	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	piy	piy	INTJ	_	_	0	root	_	_
+3	tun	tun	INTJ	_	_	2	discourse	_	_
+4	tun	tun	INTJ	_	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	piy	piy	INTJ	_	_	2	conj	_	_
+7	tun	tun	INTJ	_	_	6	discourse	_	_
+8	tun	tun	INTJ	_	_	6	discourse	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ky-6-20
+# text = sonno he tap ne e=hawan ciki, usinritpita a=ki kus ne na!'
+1	sonno	sonno	ADV	_	_	6	advmod	_	Tamura1996=676|Gloss=really
+2	he	he	PART	_	_	1	advmod	_	Tamura1996=178|Gloss=(intensifier)
+3	tap	tap	PART	_	_	2	fixed	_	Tamura1996=697
+4	ne	ne	PART	_	_	2	fixed	_	_
+5	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	6	aux	_	SpaceAfter=No
+6	hawan	hawean	VERB	_	Valency=1	11	advcl	_	Tamura1996=174|Gloss=say
+7	ciki	ciki	SCONJ	_	_	6	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	usinritpita	usinritpita	VERB	_	Valency=1	11	xcomp	_	Gloss=unveil.origin
+10	a=	a=	PART	_	Number=Sing|Person=4|PronType=Prs|Valency=Poly	11	aux	_	SpaceAfter=No
+11	ki	ki	VERB	_	Valency=2	0	root	_	Tamura1996=301|Gloss=do
+12	kus	kusu	SCONJ	_	_	11	mark	_	Tamura1996=368|Gloss=because
+13	ne	ne	AUX	_	_	11	cop	_	Tamura1996=407|Gloss=(copula)
+14	na	na	PART	_	_	11	discourse	_	SpaceAfter=No|Tamura1996=403|Gloss=(intensifier)
+15	!	!	PUNCT	_	_	11	punct	_	SpaceAfter=No|
+16	'	'	PUNCT	_	_	11	punct	_	_
+
+# sent_id = ky-6-21
+# text = háwas ciki, itak=as hawe ene okay,
+1	háwas	háwas	VERB	_	Valency=0	8	advcl	_	Tamura1996=174|Gloss=it.sounds
+2	ciki	ciki	SCONJ	_	_	1	mark	_	SpaceAfter=No|Tamura1996=51|Gloss=if
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	itak	itak	VERB	_	Valency=1	6	acl	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+5	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	4	aux	_	_
+6	hawe	hawe	NOUN	_	_	8	nsubj	_	Tamura1996=174|Gloss=fact
+7	ene	ene	ADV	_	_	8	advmod	_	Tamura1996=99|Gloss=like.this
+8	okay	an	VERB	_	Number=Pluract|Valency=1	0	root	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+9	,	,	PUNCT	_	_	8	punct	_	_
+
+# sent_id = ky-6-22
+# text = 'nennamora e=sinricihi erampewtek a!
+1	'	'	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	nennamora	nennamora	PRON	_	PronType=Int	5	nsubj	_	Tamura1996=705|Gloss=who
+3	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	SpaceAfter=No
+4	sinricihi	sinrit	NOUN	_	Possessed=Yes	5	obj	_	Tamura1996=641|Gloss=origin
+5	erampewtek	erampewtek	VERB	_	Valency=2	0	root	_	Tamura1996=113|Gloss=do.not.know
+6	a	a	PART	_	_	5	discourse	_	SpaceAfter=No|Tamura1996=1|Gloss=(intensifier)
+7	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = ky-6-23
+# text = otteeta Okikirmuy kim ta oman wa kuca kar i ta kene inunpe kar a ike, ne inunpe apekar wa sat tek okere.
+1	otteeta	otteeta	ADV	_	_	5	advmod	_	Gloss=long.long.ago
+2	Okikirmuy	Okikirmuy	PROPN	_	_	5	nsubj	_	Gloss=(legendary.hero)
+3	kim	kim	NOUN	_	Place=Yes	5	nmod	_	Tamura1996=303|Gloss=mountain
+4	ta	ta	ADP	_	_	3	case	_	Tamura1996=690|Gloss=at
+5	oman	oman	VERB	_	Valency=1	9	acl	_	Gloss=go
+6	wa	wa	CCONJ	_	_	5	cc	_	Tamura1996=821|Gloss=and
+7	kuca	kuca	NOUN	_	_	8	obj	_	Tamura1996=358|Gloss=hunting.hut
+8	kar	kar	VERB	_	Valency=2	5	conj	_	Tamura1996=279|Gloss=make
+9	i	i	NOUN	_	_	13	nmod	_	Gloss=fact
+10	ta	ta	ADP	_	_	4	case	_	Tamura1996=690|Gloss=at
+11	kene	kene	NOUN	_	_	12	compound	_	Tamura1996=295|Gloss=alder.tree
+12	inunpe	inunpe	NOUN	_	_	13	obj	_	Tamura1996=237|Gloss=wooden.boards.of.a.fireplace
+13	kar	kar	VERB	_	Valency=2	0	root	_	Tamura1996=279|Gloss=make
+14	a	a	AUX	_	_	13	aux	_	Tamura1996=1|Gloss=(past.tense)
+15	ike	ike	CCONJ	_	_	13	cc	_	SpaceAfter=No|Gloss=and
+16	,	,	PUNCT	_	_	13	punct	_	_
+17	ne	ne	DET	_	_	18	det	_	Tamura1996=407|Gloss=that
+18	inunpe	inunpe	NOUN	_	_	19	nsubj	_	Tamura1996=237|Gloss=wooden.boards.of.a.fireplace
+19	apekar	apekar	VERB	_	Valency=1	13	conj	_	Tamura1996=280|Gloss=be.hit.by.fire
+20	wa	wa	CCONJ	_	_	19	cc	_	Tamura1996=821|Gloss=and
+21	sat	sat	VERB	_	Valency=1	19	conj	_	Tamura1996=610|Gloss=be.dry
+22	tek	tek	AUX	_	_	19	aux	_	Tamura1996=705|Gloss=slightly
+23	okere	okere	AUX	_	_	19	aux	_	SpaceAfter=No|Tamura1996=462|Gloss=(perfect.aspect)
+24	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = ky-6-24
+# text = Okikirmuy oar arkehe oterke ko, oar arkehe hotari.
+1	Okikirmuy	Okikirmuy	PROPN	_	_	4	nsubj	_	Gloss=(legendary.hero)
+2	oar	oar	DET	_	_	3	det	_	Tamura1996=451|Gloss=one.of.a.pair
+3	arkehe	arke	NOUN	_	Place=Yes|Possessed=Yes	4	obj	_	Tamura1996=22|Gloss=half
+4	oterke	oterke	VERB	_	Valency=2	9	advcl	_	Tamura1996=492|Gloss=step.on
+5	ko	kor	SCONJ	_	_	3	mark	_	SpaceAfter=No|Tamura1996=313|Gloss=when
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	oar	oar	DET	_	_	8	det	_	Tamura1996=451|Gloss=one.of.a.pair
+8	arkehe	arke	NOUN	_	Place=Yes|Possessed=Yes	9	nsubj	_	Tamura1996=22|Gloss=half
+9	hotari	hotari	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Gloss=lift.up
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-25
+# text = ne wa an pe Okikirmuy ruska kusu, ne inunpe pet or ta kor wa san wa osura wa, isam ruwe ne.
+1	ne	ne	DET	_	_	4	det	_	Tamura1996=413|Gloss=that
+2	wa	wa	CCONJ	_	_	1	fixed	_	Tamura1996=821|Gloss=and
+3	an	an	VERB	_	Valency=1	1	fixed	_	Tamura1996=9|Gloss=exist
+4	pe	p	NOUN	_	_	6	obj	_	Tamura=502|Gloss=thing
+5	Okikirmuy	Okikirmuy	PROPN	_	_	6	nsubj	_	Gloss=(legendary.hero)
+6	ruska	ruska	VERB	_	Valency=2	14	advcl	_	Tamura1996=591|Gloss=be.angry.at
+7	kusu	kusu	SCONJ	_	_	6	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	ne	ne	DET	_	_	10	det	_	Tamura1996=407|Gloss=that
+10	inunpe	inunpe	NOUN	_	_	14	obj	_	Tamura1996=237|Gloss=wooden.boards.of.a.fireplace
+11	pet	pet	NOUN	_	_	12	compound	_	Tamura1996=524|Gloss=river
+12	or	or	NOUN	_	Place=Yes	14	nmod	_	Tamura1996=477|Gloss=place
+13	ta	ta	ADP	_	_	12	case	_	Tamura1996=477|Gloss=at
+14	kor	kor	VERB	_	Valency=2	23	ccomp	_	Tamura1996=333|Gloss=have
+15	wa	wa	CCONJ	_	_	14	cc	_	Tamura1996=821|Gloss=and
+16	san	san	VERB	_	Valency=1	14	conj	_	Tamura1996=602|Gloss=go.downstream
+17	wa	wa	CCONJ	_	_	14	cc	_	Tamura1996=821|Gloss=and
+18	osura	osura	VERB	_	Valency=2	14	conj	_	Tamura1996=490|Gloss=throw.away
+19	wa	wa	CCONJ	_	_	14	cc	_	SpaceAfter=No|Tamura1996=821|Gloss=and
+20	,	,	PUNCT	_	_	14	punct	_	_
+21	isam	isam	VERB	_	Valency=1	14	conj	_	Tamura1996=246|Gloss=do.not.exist
+22	ruwe	ruwe	SCONJ	_	_	14	mark	_	Tamura1996=593|Gloss=(complementizer)
+23	ne	ne	AUX	_	_	0	root	_	SpaceAfter=No|Tamura1996=407|Gloss=(copula)
+24	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = ky-6-26
+# text = oro wano ne inunpe petesoro mom ayne no, atuy oro osma.
+1	oro	or	NOUN	_	Place=Yes|Possessed=Yes	6	nmod	_	Tamura1996=477|Gloss=place
+2	wano	wano	ADP	_	_	1	case	_	Tamura1996=824|Gloss=from
+3	ne	ne	DET	_	_	4	det	_	Tamura1996=407|Gloss=that
+4	inunpe	inunpe	NOUN	_	_	6	nsubj	_	Tamura1996=237|Gloss=wooden.boards.of.a.fireplace
+5	petesoro	petesoro	ADV	_	_	6	advmod	_	Tamura1996=525|Gloss=along.a.river
+6	mom	mom	VERB	_	Valency=1	12	advcl	_	Tamura1996=391|Gloss=flow
+7	ayne	ayne	SCONJ	_	_	6	mark	_	Tamura1996=37|Gloss=and.finally
+8	no	no	SCONJ	_	_	7	fixed	_	SpaceAfter=No|Tamura1996=430|Gloss=(adverbializer)
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	atuy	atuy	NOUN	_	_	11	compound	_	Tamura1996=35|Gloss=sea
+11	oro	or	NOUN	_	Place=Yes|Possessed=Yes	12	obj	_	Tamura1996=477|Gloss=place
+12	osma	osma	VERB	_	Valency=2	0	root	_	SpaceAfter=No|Tamura1996=488|Gloss=enter
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = ky-6-27
+# text = tu atuy penrur re atuy penrur ciesirkik siri kamuy utar nukar wa, a=eoripak Okikirmuy tekekar pe néno yayerampewtek wa mom ayne no, atuykomunin a=enunuke kusu, kamuy utar oro wa ne inunpe ceppo ne a=kar wa inunpepeceppo ari a=rékore ruwe ne.
+1	tu	tu	NUM	_	NumType=Card	3	nummod	_	Tamura1996=731|Gloss=two
+2	atuy	atuy	NOUN	_	_	3	compound	_	Tamura1996=35|Gloss=sea
+3	penrur	penrur	NOUN	_	_	7	obj	_	Gloss=wave
+4	re	re	NUM	_	NumType=Card	6	nummod	_	Tamura1996=570|Gloss=three
+5	atuy	atuy	NOUN	_	_	6	compound	_	Tamura1996=35|Gloss=sea
+6	penrur	penrur	NOUN	_	_	3	conj	_	Gloss=wave
+7	ciesirkik	ciesirkik	VERB	_	Valency=2	8	acl	_	Gloss=be.hit.by
+8	siri	sir	NOUN	_	Possessed=Yes	11	obj	_	Tamura1996=645|Gloss=state
+9	kamuy	kamuy	NOUN	_	_	10	compound	_	Tamura1996=270|Gloss=god
+10	utar	utar	NOUN	_	_	11	nsubj	_	Tamura1996=792|Gloss=group
+11	nukar	nukar	VERB	_	Valency=2	28	advcl	_	Tamura1996=439|Gloss=see
+12	wa	wa	CCONJ	_	_	11	cc	_	SpaceAfter=No|Tamura1996=821|Gloss=and
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	15	aux	_	SpaceAfter=No
+15	eoripak	eoripak	VERB	_	Valency=2	16	acl:relcl	_	Tamura1996=105|Gloss=respect
+16	Okikirmuy	Okikirmuy	PROPN	_	_	17	nsubj	_	Gloss=(legendary.hero)
+17	tekekar	tekekar	VERB	_	Valency=2	18	acl:relcl	_	Tamura1996=706|Gloss=make.by.hand
+18	pe	p	NOUN	_	_	20	nsubj	_	Tamura=502|Gloss=thing
+19	néno	néno	ADV	_	_	20	advmod	_	Tamura1996=410|Gloss=like.that
+20	yayerampewtek	yayerampewtek	VERB	_	Valency=1	11	conj	_	Tamura1996=846|Gloss=know.nothing.about.oneself
+21	wa	wa	CCONJ	_	_	20	cc	_	Tamura1996=821|Gloss=and
+22	mom	mom	VERB	_	Valency=1	20	conj	_	Tamura1996=391|Gloss=flow
+23	ayne	ayne	SCONJ	_	_	11	mark	_	Tamura1996=37|Gloss=and.finally
+24	no	no	SCONJ	_	_	23	fixed	_	SpaceAfter=No|Tamura1996=430|Gloss=(adverbializer)
+25	,	,	PUNCT	_	_	11	punct	_	_
+26	atuykomunin	atuykomunin	VERB	_	Valency=1	28	iobj	_	Gloss=be.rotten.by.water
+27	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	28	aux	_	SpaceAfter=No
+28	enunuke	enunuke	VERB	_	Valency=3	40	advcl	_	Tamura1996=103|Gloss=take.care
+29	kusu	kusu	SCONJ	_	_	28	mark	_	SpaceAfter=No|Tamura1996=368|Gloss=because
+30	,	,	PUNCT	_	_	28	punct	_	_
+31	kamuy	kamuy	NOUN	_	_	32	compound	_	Tamura1996=270|Gloss=god
+32	utar	utar	NOUN	_	_	33	compound	_	Tamura1996=792|Gloss=group
+33	oro	or	NOUN	_	Place=Yes|Possessed=Yes	40	nmod	_	Tamura1996=477|Gloss=place
+34	wa	wa	ADP	_	_	33	case	_	Tamura1996=820|Gloss=from
+35	ne	ne	DET	_	_	36	det	_	Tamura1996=407|Gloss=that
+36	inunpe	inunpe	NOUN	_	_	40	nsubj	_	Tamura1996=237|Gloss=wooden.boards.of.a.fireplace
+37	ceppo	ceppo	NOUN	_	Degree=Dim	40	nmod	_	Tamura1996=46|Gloss=small.fish
+38	ne	ne	ADP	_	_	37	case	_	Tamura1996=407|Gloss=as
+39	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	40	aux	_	SpaceAfter=No
+40	kar	kar	VERB	_	Valency=2	47	ccomp	_	Tamura1996=279|Gloss=make
+41	wa	wa	CCONJ	_	_	40	cc	_	Tamura1996=821|Gloss=and
+42	inunpepeceppo	inunpepeceppo	NOUN	_	Degree=Dim	45	nmod	_	Gloss=cutlassfish
+43	ari	ari	ADP	_	_	42	case	_	Tamura1996=21|Gloss=as
+44	a=	a=	PART	_	Number=Plur|Person=4|PronType=Prs|Valency=Poly	45	aux	_	SpaceAfter=No
+45	rékore	rékore	VERB	_	Valency=2	40	conj	_	Tamura1996=571|Gloss=name
+46	ruwe	ruwe	SCONJ	_	_	40	mark	_	Tamura1996=593|Gloss=(complementizer)
+47	ne	ne	AUX	_	_	0	root	_	SpaceAfter=No|Tamura1996=407|Gloss=(copula)
+48	.	.	PUNCT	_	_	47	punct	_	_
+
+# sent_id = ky-6-28
+# text = awa ne inunpepeceppo yaysinrit'erampewtek wa aynu ne yaykar wa iki kor an.
+1	awa	awa	CCONJ	_	_	12	cc	_	Tamura1996=35|Gloss=and
+2	ne	ne	DET	_	_	3	det	_	Tamura1996=407|Gloss=that
+3	inunpepeceppo	inunpepeceppo	NOUN	_	Degree=Dim	4	nsubj	_	Gloss=cutlassfish
+4	yaysinrit'erampewtek	yaysinrit'erampewtek	VERB	_	Valency=1	12	advcl	_	Gloss=do.not.know.its.own.origin
+5	wa	wa	CCONJ	_	_	4	cc	_	Tamura1996=821|Gloss=and
+6	aynu	aynu	NOUN	_	_	8	nmod	_	Tamura1996=37|Gloss=man
+7	ne	ne	ADP	_	_	6	case	_	Tamura1996=407|Gloss=as
+8	yaykar	yaykar	VERB	_	Valency=1	4	conj	_	Tamura1996=852|Gloss=transform
+9	wa	wa	CCONJ	_	_	4	cc	_	Tamura1996=821|Gloss=and
+10	iki	iki	VERB	_	Valency=1	4	conj	_	Tamura1996=222|Gloss=behave
+11	kor	kor	SCONJ	_	_	4	mark	_	Tamura1996=334|Gloss=when
+12	an	an	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=9|Gloss=exist
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = ky-6-29
+# text = ne inunpepeceppo e=ne ruwe tasi an ne.'
+1	ne	ne	DET	_	_	2	det	_	Tamura1996=407|Gloss=that
+2	inunpepeceppo	inunpepeceppo	NOUN	_	Degree=Dim	5	acl	_	Gloss=cutlassfish
+3	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	4	aux	_	SpaceAfter=No
+4	ne	ne	AUX	_	_	2	cop	_	Tamura1996=407|Gloss=(copula)
+5	ruwe	ruwe	NOUN	_	_	7	nsubj	_	Tamura1996=593|Gloss=fact
+6	tasi	tasi	ADV	_	_	5	advmod	_	Tamura1996=702|Gloss=(intensifier)
+7	an	an	VERB	_	Valency=1	0	root	_	Tamura1996=9|Gloss=exist
+8	ne	ne	PART	_	_	7	advmod	_	SpaceAfter=No|Gloss=(intensifier)
+9	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	'	'	PUNCT	_	_	7	punct	_	_
+
+# sent_id = ky-6-30
+# text = itak=as awa, pon rupne aynu iporoho ka wen a wen a.
+1	itak	itak	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=250|Gloss=speak
+2	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	1	aux	_	_
+3	awa	awa	CCONJ	_	_	1	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	pon	pon	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=538|Gloss=small
+6	rupne	rupne	VERB	_	Valency=1	7	acl:relcl	_	Tamura1996=589|Gloss=adult
+7	aynu	aynu	NOUN	_	_	8	nmod:poss	_	Tamura1996=37|Gloss=man
+8	iporoho	iporo	NOUN	_	Possessed=Yes	9	compound	_	Tamura1996=240|Gloss=facial.complexion
+9	ka	ka	NOUN	_	Place=Yes	10	nsubj	_	Tamura1996=207|Gloss=top.of
+10	wen	wen	VERB	_	Valency=1	1	conj	_	Tamura1996=825|Gloss=be.bad
+11	a	a	AUX	_	_	10	aux	_	Tamura1996=1|Gloss=(repetition)
+12	wen	wen	VERB	_	Valency=1	10	conj	_	Tamura1996=825|Gloss=be.bad
+13	a	a	AUX	_	_	12	aux	_	SpaceAfter=No|Tamura1996=1|Gloss=(repetition)
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ky-6-31
+# text = ikokanu wa an ayne,
+1	ikokanu	ikokanu	VERB	_	Valency=1	0	root	_	Tamura1996=225|Gloss=listen.carefully
+2	wa	wa	CCONJ	_	_	1	cc	_	Tamura1996=821|Gloss=and
+3	an	an	VERB	_	Valency=1	1	conj	_	Tamura1996=9|Gloss=exist
+4	ayne	ayne	SCONJ	_	_	1	mark	_	SpaceAfter=No|Tamura1996=37|Gloss=and.finally
+5	,	,	PUNCT	_	_	1	punct	_	_
+
+# sent_id = ky-6-32
+# text = 'piy tun tun, piy tun tun!
+1	'	'	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	piy	piy	INTJ	_	_	0	root	_	_
+3	tun	tun	INTJ	_	_	2	discourse	_	_
+4	tun	tun	INTJ	_	_	2	discourse	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	piy	piy	INTJ	_	_	2	conj	_	_
+7	tun	tun	INTJ	_	_	6	discourse	_	_
+8	tun	tun	INTJ	_	_	6	discourse	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ky-6-33
+# text = eani anak pon horkew sani e=ne ruwe tasi an ne.'
+1	eani	eani	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Tamura1996=72
+2	anak	anak	ADV	_	_	1	advmod	_	Tamura1996=11|Gloss=(intensifier)
+3	pon	pon	VERB	_	Valency=1	5	acl:relcl	_	Tamura1996=538|Gloss=small
+4	horkew	horkew	NOUN	_	_	5	nmod	_	Tamura1996=202|Gloss=wolf
+5	sani	san	NOUN	_	Possessed=Yes	8	acl	_	Tamura1996=603|Gloss=descendant
+6	e=	e=	PART	_	Number=Sing|Person=2|PronType=Prs	7	aux	_	SpaceAfter=No
+7	ne	ne	AUX	_	_	5	cop	_	Tamura1996=407|Gloss=(copula)
+8	ruwe	ruwe	NOUN	_	_	10	nsubj	_	Tamura1996=593|Gloss=fact
+9	tasi	tasi	ADV	_	_	8	advmod	_	Tamura1996=702|Gloss=(intensifier)
+10	an	an	VERB	_	Valency=1	0	root	_	Tamura1996=9|Gloss=exist
+11	ne	ne	PART	_	_	10	advmod	_	SpaceAfter=No|Gloss=(intensifier)
+12	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	'	'	PUNCT	_	_	10	punct	_	_
+
+# sent_id = ky-6-34
+# text = itak kese ta atuy or un terke humi copkosanu.
+1	itak	itak	NOUN	_	_	2	compound	_	Tamura1996=250|Gloss=word
+2	kese	kes	NOUN	_	Place=Yes|Possessed=Yes	7	nmod	_	Tamura1996=297|Gloss=lower.edge
+3	ta	ta	ADP	_	_	2	case	_	Tamura1996=477|Gloss=at
+4	atuy	atuy	NOUN	_	_	5	compound	_	Tamura1996=35|Gloss=sea
+5	or	or	NOUN	_	Place=Yes	7	nmod	_	Tamura1996=477|Gloss=place
+6	un	un	ADP	_	_	5	case	_	Tamura1996=769|Gloss=to
+7	terke	terke	VERB	_	Valency=1	8	acl	_	Tamura1996=713|Gloss=jump
+8	humi	humi	NOUN	_	Possessed=Yes	9	nsubj	_	Tamura1996=208|Gloss=sound
+9	copkosanu	copkosanu	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Gloss=spread
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = ky-6-35
+# text = osi inkar=as awa, sine húre ceppo honoyanoya wa too herepasi oman wa isam,"
+1	osi	osi	ADV	_	_	2	advmod	_	Gloss=following.it
+2	inkar	inkar	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=234|Gloss=see
+3	=as	=as	PART	_	Number=Plur|Person=1|PronType=Prs|Valency=1	2	aux	_	_
+4	awa	awa	CCONJ	_	_	2	cc	_	SpaceAfter=No|Tamura1996=35|Gloss=and
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	sine	sine	NUM	_	NumType=Card	8	nummod	_	Tamura1996=637|Gloss=one
+7	húre	húre	VERB	_	Valency=1	8	acl:relcl	_	Tamura1996=212|Gloss=be.red
+8	ceppo	ceppo	NOUN	_	Degree=Dim	9	nsubj	_	Tamura1996=46|Gloss=small.fish
+9	honoyanoya	honoyanoya	VERB	_	Valency=1	2	conj	_	Tamura1996=197|Gloss=twist.its.tail
+10	wa	wa	CCONJ	_	_	9	cc	_	Tamura1996=821|Gloss=and
+11	too	too	ADV	_	_	13	advmod	_	Tamura1996=724|Gloss=faraway
+12	herepasi	herepasi	ADV	_	_	13	advmod	_	Tamura1996=525|Gloss=towards.sea
+13	oman	oman	VERB	_	Valency=1	9	conj	_	Gloss=go
+14	wa	wa	CCONJ	_	_	9	cc	_	Tamura1996=821|Gloss=and
+15	isam	isam	VERB	_	Valency=1	9	conj	_	SpaceAfter=No|Tamura1996=246|Gloss=do.not.exist
+16	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No|
+17	"	"	PUNCT	_	_	2	punct	_	_
+
+# sent_id = ky-6-36
+# text = ari pon horkew kamuy isoytak.
+1	ari	ari	ADV	_	_	5	advmod	_	Tamura1996=21|Gloss=like.that
+2	pon	pon	VERB	_	Valency=1	4	acl:relcl	_	Tamura1996=538|Gloss=small
+3	horkew	horkew	NOUN	_	_	4	compound	_	Tamura1996=202|Gloss=wolf
+4	kamuy	kamuy	NOUN	_	_	5	nsubj	_	Tamura1996=270|Gloss=god
+5	isoytak	isoytak	VERB	_	Valency=1	0	root	_	SpaceAfter=No|Tamura1996=249|Gloss=tell.tales
+6	.	.	PUNCT	_	_	5	punct	_	_
+

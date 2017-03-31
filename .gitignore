@@ -1,0 +1,5 @@
+# OS X-specific
+.DS_Store
+
+# vim tmp file
+*.swp
